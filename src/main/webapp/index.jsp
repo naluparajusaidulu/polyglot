@@ -5,7 +5,7 @@
 <font size="20" color="#00FF7F"><p>Nilgiri-Block</font></p>
 <font size="20" color="#0000ff"><p>Sathyam theatre road </font></p>
 <font size="20" color="#808000">Hyderabad<p></font></p>
-<font size="20" color="#8FBC8F">wish Happy srikrishna janmashtami<p></font></p>
+<font size="20" color="#8FBC8F">wish Happy srikrishna janmashtami && advance vinayakachavithi<p></font></p>
 
 </body>
 </html>
