@@ -26,13 +26,13 @@
   <distributionManagement>
     <repository>
         <id>central</id>
-        <name>ip-172-31-94-151-releases</name>
-        <url>http://54.147.78.73:8081/artifactory/my-maven-repo</url>
+        <name>ip-172-31-24-45-releases</name>
+        <url>http://35.154.124.38:8081/artifactory/ravi-maven-repo</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>ip-172-31-94-151-snapshots</name>
-        <url>http://54.147.78.73:8081/artifactory/my-maven-repo</url>
+        <name>ip-172-31-24-45-snapshots</name>
+        <url>http://35.154.124.38:8081/artifactory/ravi-maven-repo</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
